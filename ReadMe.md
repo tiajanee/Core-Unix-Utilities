@@ -29,7 +29,7 @@ cd Core
 
 ### Variables
 
-1.  Print a sentence, like `Hello world`
+1.  Print a sentence, like `Hello world` 
 1.  Print a variable value, like `$USER` or `$PATH`
 1.  Set a variable `NAME` equal to your first name, then print its value
 1.  Set a variable `FULL_NAME` equal to your full name, then print its value
