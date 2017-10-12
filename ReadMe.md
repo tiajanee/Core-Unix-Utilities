@@ -76,6 +76,8 @@ alias
 
 1.  Print what options a command accepts, like `bash` or `python`
 1.  Read the manual for a command, like `echo` or `ls`
+echo, prints
+ls, lists files in a directory
 1.  Print the file path to a command, like `bash` or `python`
 
 ### Files
