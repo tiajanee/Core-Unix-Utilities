@@ -119,6 +119,7 @@ rm -r *.txt
 1.  Remove the directory `Shelter` (this should succeed)
 rm -r Shelter
 1.  Now cry because you just deleted those poor tiny animals
+omg
 
 ### Permissions
 
